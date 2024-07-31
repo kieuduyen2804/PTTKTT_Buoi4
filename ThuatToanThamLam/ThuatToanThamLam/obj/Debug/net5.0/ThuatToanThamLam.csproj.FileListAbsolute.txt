@@ -1,0 +1,16 @@
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.exe
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.deps.json
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.runtimeconfig.json
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.runtimeconfig.dev.json
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.dll
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ref\ThuatToanThamLam.dll
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\net5.0\ThuatToanThamLam.pdb
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.csproj.AssemblyReference.cache
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.AssemblyInfoInputs.cache
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.AssemblyInfo.cs
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.csproj.CoreCompileInputs.cache
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.dll
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ref\ThuatToanThamLam.dll
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.pdb
+D:\Code_Buoi4\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\net5.0\ThuatToanThamLam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.exe
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.deps.json
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.runtimeconfig.json
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.runtimeconfig.dev.json
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.dll
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\ref\BienTheBaiToanBalo.dll
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\bin\Debug\net5.0\BienTheBaiToanBalo.pdb
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.csproj.AssemblyReference.cache
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.AssemblyInfoInputs.cache
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.AssemblyInfo.cs
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.csproj.CoreCompileInputs.cache
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.dll
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\ref\BienTheBaiToanBalo.dll
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.pdb
+D:\Code_Buoi4\BienTheBaiToanBalo\BienTheBaiToanBalo\obj\Debug\net5.0\BienTheBaiToanBalo.genruntimeconfig.cache
